@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
+rect {
+    cursor:  auto;
+    cursor:   url('./logo.svg') 100 100, auto;
+}
+
+svg {mix-blend-mode: multiply;}

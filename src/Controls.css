@@ -1,0 +1,12 @@
+/*Controls*/
+.controls {
+    margin-left:100px;
+    position: fixed;
+    top: 10px;
+    left: 0px;
+    background-color: whitesmoke;
+}
+
+.controls div {
+    /*margin-right:20px;*/
+}
